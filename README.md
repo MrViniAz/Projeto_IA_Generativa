@@ -1,6 +1,6 @@
 # Projeto_IA_Generativa
 
-Foi desenvolvido um projeto de chatbot com IA Generativa gpt-4o, treinado a partir de PDFs sobre desenvolvimento profissional. E foi realizado a instrução para o chatbot fundamentar as respostas com base nos arquivos disponibilizados previamente. Abaixo seguem imagens do projeto:
+Foi desenvolvido um projeto de chatbot com IA Generativa gpt-4o, treinado a partir de PDFs sobre desenvolvimento profissional, com o intuito de instruir sobre o desenvolvimento profissional. E foi realizado a instrução para o chatbot fundamentar as respostas com base nos arquivos disponibilizados previamente. Abaixo seguem imagens do projeto:
 
 <img width="1911" height="887" alt="image" src="https://github.com/user-attachments/assets/477feedd-a22a-435b-9155-da268531996d" />
 
