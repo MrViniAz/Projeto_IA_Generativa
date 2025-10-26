@@ -1,6 +1,6 @@
 # Projeto_IA_Generativa
 
-Foi desenvolvido um projeto de chatbot com IA Generativa gpt-4o no Azure AI Foundry, treinado a partir de PDFs de livros sobre desenvolvimento profissional, com o intuito de instruir sobre o desenvolvimento profissional. 
+Foi desenvolvido um projeto de chatbot com IA Generativa gpt-4o no Azure AI Foundry, treinado a partir de PDFs de livros sobre desenvolvimento profissional, com o intuito de instruir profissionais no ambiente corporativo. 
 
 Foi realizado a instrução para o chatbot fundamentar as respostas com base nos arquivos disponibilizados previamente. Abaixo seguem imagens do projeto:
 
